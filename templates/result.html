@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Spam Classifier</title>
+		<meta charset='utf-8'>
+		
+	</head>
+	<body>
+		<br>
+		<h1 style="color:blue;text-align:center;">Spam Detector for SMS messages</h1>
+		<br>
+		<div class='results'>
+			{%if prediction == 1%}
+			<h2 style='color:red;size:30;text-align:center;'>The message is a Spam</h2>
+			{%elif prediction == 0%}
+			<h2 style='color:green;size:30;text-align:center;'>The message is not a Spam</h2>
+			{%endif%}
+		</div>
+	</body>
+</html>
