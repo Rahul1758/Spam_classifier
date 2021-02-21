@@ -1,6 +1,6 @@
 # SMS Spam classifier
 
-**1. DESCRIPTION**
+***1. DESCRIPTION***
 --------------
 Everyone receives tons of spam messages on their smartphones everyday. Nowadays smartphones are also smart enough to identify the spam messages and automatically dump them to the spam folder to save your time. This application is a glimpse of identification part that the smartphone does but using just Machine learning to solve the problem.
 
