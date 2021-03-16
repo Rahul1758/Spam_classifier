@@ -14,7 +14,7 @@ The dataset for was obtained from https://archive.ics.uci.edu/ml/machine-learnin
 --------------
 This classification task was performed using the concepts of NLP like Stemming & Bag of Words (BOW).
 The training model used for this classification is Multinomial Naive Bayes.
-The library used to create this application is NLTK (Natural Language Tool Kit) which one of the popular most widely used libraries for NLP tasks.
+The library used to create this application is NLTK (Natural Language Tool Kit) which is one of the popular most widely used libraries for NLP tasks.
 
 
 4. DEPLOYMENT
