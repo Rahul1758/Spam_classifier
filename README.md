@@ -19,6 +19,6 @@ The library used to create this application is NLTK (Natural Language Tool Kit) 
 
 4. DEPLOYMENT
 --------------
-The app uses Flask framework to create a front-end API and is deployed on Heroku along with Dockers.
+The app uses Flask framework to create a front-end API and is deployed on Heroku.
 Please feel free to try out the app by hitting this link!! https://nlp-sms-spam-classifier.herokuapp.com/
 
